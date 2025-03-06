@@ -1,0 +1,16 @@
+/* body{
+    background-image: url("./images/digital\ marketing.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} */
+
+.heading{
+    text-align: right;
+    background-color: tan;
+    border: 2px solid green;
+}
+span{
+    background-color: aqua;
+    font-size: 20px;
+}
